@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "bundleId": "com.aviru.AppAlertExample",
+    "title": "App Alert",
+    "text": "Warning there is bug in the application and i am working on it...",
+    "confirmLabel": "Ok"
+  }
+]
